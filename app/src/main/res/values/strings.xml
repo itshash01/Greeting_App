@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Greeting App</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="update_greeting">UPDATE GREETING</string>
+    <string name="hello">Hello</string>
+</resources>
